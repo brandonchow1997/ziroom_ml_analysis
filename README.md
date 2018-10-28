@@ -29,7 +29,7 @@
 ![3d](pic/3d.PNG)
 
 - 结果
-![result](pic/图表分析结果.png)
+![result](pic/图表分析结果.PNG)
 
 ---
 
